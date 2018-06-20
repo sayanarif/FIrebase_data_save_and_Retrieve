@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "197550813887",
+    "firebase_url": "https://nwpfirebaseproject.firebaseio.com",
+    "project_id": "nwpfirebaseproject",
+    "storage_bucket": "nwpfirebaseproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197550813887:android:4a95fe675a63fa87",
+        "android_client_info": {
+          "package_name": "com.example.user.nwp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197550813887-os47s4riq1vkpp149dsiuckn55dlo3jq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.nwp",
+            "certificate_hash": "cb7f5a12215521c377b17356ff0606751bd70566"
+          }
+        },
+        {
+          "client_id": "197550813887-cqjriqcesoonivadhjd9e8te2n9vkmc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX4W5NhLOdBBwx2zFEZn3euAevPpUhOj8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197550813887-cqjriqcesoonivadhjd9e8te2n9vkmc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
